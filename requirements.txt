@@ -2,3 +2,4 @@ polars
 matplotlib
 numpy
 scipy
+statsmodels
