@@ -7,3 +7,4 @@ torch
 optuna
 xgboost
 scikit-learn
+altair
