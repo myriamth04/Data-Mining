@@ -8,3 +8,4 @@ optuna
 xgboost
 scikit-learn
 altair
+black
